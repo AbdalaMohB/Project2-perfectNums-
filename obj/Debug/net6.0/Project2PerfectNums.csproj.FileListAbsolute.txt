@@ -1,0 +1,15 @@
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\bin\Debug\net6.0\Project2PerfectNums.exe
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\bin\Debug\net6.0\Project2PerfectNums.deps.json
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\bin\Debug\net6.0\Project2PerfectNums.runtimeconfig.json
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\bin\Debug\net6.0\Project2PerfectNums.dll
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\bin\Debug\net6.0\Project2PerfectNums.pdb
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.csproj.AssemblyReference.cache
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.AssemblyInfoInputs.cache
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.AssemblyInfo.cs
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.csproj.CoreCompileInputs.cache
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.dll
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\refint\Project2PerfectNums.dll
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.pdb
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\Project2PerfectNums.genruntimeconfig.cache
+C:\Users\llama\Documents\Visual Studio 2022\Project2PerfectNums\obj\Debug\net6.0\ref\Project2PerfectNums.dll
